@@ -1,4 +1,4 @@
-####README
+##README
 1) This script is written in python3 and can be run in python 3.8 environment;
 2) This script will determine if a one-to-one character mapping exists from one string to another;
 3) To run the script, type the following command in the terminal: python3 main.py \<string1> \<string2>
